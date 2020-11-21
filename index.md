@@ -26,17 +26,10 @@ To maximize service to all stops on major corridors, the following Metro Rapid l
 |-------------------------|------------------------|
 | **705**<br>Vernon Av/La Cienega Bl | **105** |
 | **710**<br>Crenshaw Bl | **210** |
+| **728**<br>Olympic Bl | **28** |
+| **740**<br>Hawthorne Bl/Crenshaw Bl | **40** |
 
-728
-Olympic Bl
-28
-740 Hawthorne
-Bl/Crenshaw Bl 40
 745 Broadway 45
 751 Soto St 251
-760 Long Beach
-Bl
-60
-762 Atlantic Bl/
-Fair Oaks Av
-260
+760 Long Beach Bl 60
+762 Atlantic Bl/Fair Oaks Av 260

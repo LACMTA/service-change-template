@@ -32,3 +32,14 @@ To maximize service to all stops on major corridors, the following Metro Rapid l
 | **751**<br>Soto St | **251** |
 | **760**<br>Long Beach Bl | **60** |
 | **762**<br>Atlantic Bl/Fair Oaks Av | **260** |
+
+# We’re modifying additional bus line service. Impacted bus lines are listed below.
+
+20 – Move line from 7th St to 5th & 6th Sts in
+Downtown LA to accommodate LADOT project
+on 7th St and utilize the new bus lanes on 5th &
+6th Sts.
+
+55 – Discontinue Firestone Station deviation;
+Line 55 will operate direct on Compton Av for
+travel time savings for the majority of riders 
